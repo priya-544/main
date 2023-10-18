@@ -1,4 +1,4 @@
 # main
 This is my first Repository
 <br>
-Priya
+Priya Tare
